@@ -7,6 +7,8 @@
 </h1>
 <h2 align="center"><center>Evolução contínua de habilidades para desenvolvimento de software, com ênfase em certificações e testes práticos do conteúdo aprendido.</center></h2>
 
+## 🎯 Acompanhe meu progresso 
+
 No SkillPath Lab, aprimoro minhas habilidades em desenvolvimento de software de forma contínua, com foco em certificações e testes práticos. A plataforma me permite organizar meus estudos de maneira intuitiva, integrando novos conhecimentos e praticando o conteúdo absorvido. Monitoro meu progresso, garantindo cada passo da minha jornada.
 
-## MyRoadmap 🎯
+## MyRoadmap
