@@ -11,4 +11,11 @@
 
 No SkillPath Lab, aprimoro minhas habilidades em desenvolvimento de software de forma contínua, com foco em certificações e testes práticos. A plataforma me permite organizar meus estudos de maneira intuitiva, integrando novos conhecimentos e praticando o conteúdo absorvido. Monitoro meu progresso, garantindo cada passo da minha jornada.
 
-## MyRoadmap
+## 📚 MyRoadmap
+
+- [ ] Certificação Java
+- [ ] Certificação AWS
+- [ ] Certificação Android
+- [ ] Certificação Spring Boot
+- [ ] Certificação GitHub
+- [ ] Certificação Kotlin
